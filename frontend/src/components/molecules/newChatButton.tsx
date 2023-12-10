@@ -36,7 +36,7 @@ export default function NewChatButton() {
         onClick={handleClickOpen}
         startIcon={<AddIcon />}
       >
-        New Chat
+        A New Chat
       </AccentButton>
       <NewChatDialog
         open={open}
